@@ -2,7 +2,7 @@
 
 **[点击领养 / Adopt this pet](https://chatgpt.com/s/sharepet_6ad5780dc3f08191ad00e2fc0d31990b)**
 
-**[下载 v1.0.0 完整包 / Download ZIP](https://github.com/linyuww/Sakuraba-Ema/releases/download/v1.0.0/Sakuraba-Ema-v1.0.0.zip)**
+**[下载 v1.1.0 完整包 / Download ZIP](https://github.com/linyuww/Sakuraba-Ema/releases/download/v1.1.0/Sakuraba-Ema-v1.1.0.zip)**
 
 白发粉色发梢、黑色贝雷帽与樱花装饰的动画宠物。包含 **9 组动画和 16 个视线方向**。
 
@@ -37,3 +37,12 @@ Rows 9–10: sixteen clockwise look directions in 22.5° steps. 0° points up, 9
 边缘在高清源图中完成去底色后再缩小，以保留连续轮廓和抗锯齿透明边缘。精灵表已通过结构、透明背景、动作和方向校验。
 
 Blue-screen removal is performed before downsampling the high-resolution source frames. The final sprite sheet passed structural, transparency, animation and direction checks.
+
+## v1.1.0 动作更新
+
+待机在大嘴、闭嘴和眨眼之间切换。鼠标互动按参考左右歪头，配小猫嘴和小圆嘴，脚掌保持着地。当前客户端鼠标移入时也会触发该互动；触发方式由客户端控制。
+
+![待机表情变化](previews/idle.gif)
+![左右晃头](previews/head-sway.gif)
+
+The runtime `jumping` slot now contains grounded head sways at the user's request. All 62 frames outside the idle and interaction rows, including all sixteen look directions, are unchanged from v1.0.0.

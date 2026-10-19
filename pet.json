@@ -143,5 +143,10 @@
       "columnIndex": 7
     }
   ],
-  "shareUrl": "https://chatgpt.com/s/sharepet_6ad5780dc3f08191ad00e2fc0d31990b"
+  "shareUrl": "https://chatgpt.com/s/sharepet_6ad5780dc3f08191ad00e2fc0d31990b",
+  "version": "1.1.0",
+  "animationNotes": {
+    "idle": "Open mouth, closed cat mouth and blinking alternate naturally.",
+    "jumping": "Grounded left/right head tilts with small cat and round mouth expressions. This runtime interaction slot is also triggered on pointer hover by the client."
+  }
 }
