@@ -1,5 +1,9 @@
 # Sakuraba Ema
 
+**[点击领养 / Adopt this pet](https://chatgpt.com/s/sharepet_6ad5780dc3f08191ad00e2fc0d31990b)**
+
+**[下载 v1.0.0 完整包 / Download ZIP](https://github.com/linyuww/Sakuraba-Ema/releases/download/v1.0.0/Sakuraba-Ema-v1.0.0.zip)**
+
 白发粉色发梢、黑色贝雷帽与樱花装饰的动画宠物。包含 **9 组动画和 16 个视线方向**。
 
 An animated cat companion with white-and-pink hair, a black beret and cherry blossoms. Includes **9 animation states and 16 look directions**.
